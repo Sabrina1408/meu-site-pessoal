@@ -123,6 +123,16 @@ main p {
 .about-texts h3, p{
   padding: 0 10px;
 }
+.a-about {
+  background-color: var(--button);
+  padding: 15px;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 25px;
+  display: block;
+  max-width: 300px;
+  margin: 0 auto;
+}
 
 /* projects */
 .projects {
