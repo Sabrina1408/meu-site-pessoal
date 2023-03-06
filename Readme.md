@@ -8,7 +8,7 @@
         Portifólio pessoal.
     </li>
     <li>
-        <a href="https://sabrinaalves.tk" target="_blank" target="_blank">Link do site</a>
+        <a href="https://sabrina1408.github.io/meu-site-pessoal/" target="_blank" target="_blank">Link do site</a>
     </li>
 </ul>
 <h1>Status</h1>
