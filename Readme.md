@@ -4,7 +4,13 @@
 <h2>🎯 Links</h2>
 <ul>
     <li>
-        <a href="https://sabrinaalvesbrito.com.br" target="_blank" target="_blank">Link do site</a>
+        Primeira avaliação da matéria de desenvolvimento de aplicações da web para a faculdade.
+    </li>
+    <li>
+        Portifólio pessoal.
+    </li>
+    <li>
+        <a href="https://sabrinaalves.tk" target="_blank" target="_blank">Link do site</a>
     </li>
 </ul>
 <h2>👽 Status - Finalizado</h2>
