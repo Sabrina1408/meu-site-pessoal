@@ -4,13 +4,10 @@
 <h2>🎯 Links</h2>
 <ul>
     <li>
-        Primeira avaliação da matéria de desenvolvimento de aplicações da web para a faculdade.
+        <a href="https://sabrina1408.github.io/meu-site-pessoal/" target="_blank" target="_blank">Link do site</a>
     </li>
     <li>
-        Portifólio pessoal.
-    </li>
-    <li>
-        <a href="https://sabrinaalves.tk" target="_blank" target="_blank">Link do site</a>
+        <a href="https://sabrinaalvesbrito.com.br" target="_blank" target="_blank">Link do meu portfolio novo</a>
     </li>
 </ul>
 <h2>👽 Status - Finalizado</h2>
